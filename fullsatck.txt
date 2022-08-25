@@ -1,4 +1,6 @@
 1. Belaja UI website
+  - Mempelajari html dasar
+  - Mempelajari css
 2. Belajar membuat database
 3. Mengikuti course bwa & dea
 4. Konsisten belajar
